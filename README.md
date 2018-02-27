@@ -1,0 +1,1 @@
+script to run in all child git folders
